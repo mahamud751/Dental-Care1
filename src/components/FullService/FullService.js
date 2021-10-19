@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Row } from 'react-bootstrap';
+import MainData from '../dummyData/Item.json'
 import FullServiceShow from '../FullServiceShow/FullServiceShow';
 
 
@@ -8,9 +9,7 @@ const FullService = () => {
     const [products, setProducts] = useState([])
 
     useEffect(() => {
-        fetch('item.json')
-            .then(res => res.json())
-            .then(data => setProducts(data))
+        setProducts(MainData)
     }, [])
 
     return (
@@ -19,7 +18,7 @@ const FullService = () => {
 
                 <div className="">
                     <div>
-                        <Row xs={1} md={2} className="g-4">
+                        <Row xs={1} md={3} className="g-4">
                             {
                                 products.map(product => <FullServiceShow
                                     key={product.key}

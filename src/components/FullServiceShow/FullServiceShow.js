@@ -1,17 +1,12 @@
 import React from 'react';
 import { Card, Col } from 'react-bootstrap';
 import Rating from 'react-rating';
-// import { useHistory } from 'react-router';
 
 
 
 const FullServiceShow = (props) => {
     const { name, img, star, description, price } = props.product
-    // const history = useHistory()
 
-    // const handleBtn = () => {
-    //     history.push(`/singleProducts/${singleProducts?.name}`)
-    // }
     return (
         <div className="mt-5">
             <div className="container-fluid">

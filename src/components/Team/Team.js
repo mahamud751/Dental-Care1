@@ -9,7 +9,7 @@ import image from '../../21.png'
 const Team = () => {
     const [membersId, setMembersId] = useState([])
     useEffect(() => {
-        fetch('team.json')
+        fetch('/team.json')
             .then(res => res.json())
             .then(data => setMembersId(data))
     }, [])
@@ -21,7 +21,7 @@ const Team = () => {
                 <h1>Team Members</h1>
                 <img className="img-fluid" src={image} alt="" style={{ height: "500px" }} />
                 <div>
-                    <Row xs={1} md={4} className="g-4 p-4">
+                    <Row xs={1} md={3} className="g-4 p-4">
                         {
                             membersId.map(member => <Members
                                 key={member.name}
