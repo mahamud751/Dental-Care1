@@ -2,6 +2,8 @@
 
 This project was bootstrapped with(https://github.com/Programming-Hero-Web-Course3/healthcare-related-website-mahamud751).
 
+Description: We offer teeth whitening as a way to remove stains from the surface of the teeth. Veneers: We place a thin restoration over the front of the tooth.
+
 ## Our Target---
 * We negotiate perks, pay and everything in between.
 
