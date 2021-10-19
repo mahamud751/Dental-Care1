@@ -6,7 +6,7 @@ import Rating from 'react-rating';
 
 
 const FullServiceShow = (props) => {
-    const { name, img, star, description, id, price } = props.product
+    const { name, img, star, description, price } = props.product
     // const history = useHistory()
 
     // const handleBtn = () => {

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Col, Container, Row } from 'react-bootstrap';
+import { Card, Col, Container } from 'react-bootstrap';
 import { useParams } from 'react-router';
 import product from '../dummyData/product.json'
 const SingleProducts = () => {

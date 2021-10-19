@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 import './Products.css'
 
 const Products = (props) => {
-    const { name, img, star, description, id, price } = props.product
+    const { name, img, star, description, id } = props.product
     // const history = useHistory()
 
     // const handleBtn = () => {
