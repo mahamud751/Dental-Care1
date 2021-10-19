@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Row } from 'react-bootstrap';
 import Members from '../Members/Members';
+import TeamPart from '../dummyData/Team.json'
 import './Team.css'
 
 import image from '../../21.png'
@@ -9,9 +10,7 @@ import image from '../../21.png'
 const Team = () => {
     const [membersId, setMembersId] = useState([])
     useEffect(() => {
-        fetch('/team.json')
-            .then(res => res.json())
-            .then(data => setMembersId(data))
+        setMembersId(TeamPart)
     }, [])
 
 

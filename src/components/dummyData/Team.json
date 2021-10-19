@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Jack",
+        "id": 1,
+        "age": 25,
+        "position": "CEO",
+        "salary": 220000,
+        "contract": "+4488899992",
+        "img": "https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=644&q=80"
+    },
+    {
+        "name": "Logan Mckenzie",
+        "id": 1,
+        "age": 34,
+        "position": "COO",
+        "salary": 180000,
+        "contract": "+4418200102",
+        "img": "https://trustjuris.com/wp-content/uploads/2019/05/Team-memeber-01-1.png"
+    },
+    {
+        "name": "Jaqueline Stanger",
+        "id": 1,
+        "age": 32,
+        "position": "Marketing manager",
+        "salary": 120000,
+        "contract": "+4470099021",
+        "img": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE2fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "name": "Marry",
+        "id": 1,
+        "age": 32,
+        "position": "Marketing manager",
+        "salary": 135000,
+        "contract": "+448889990",
+        "img": "https://images.unsplash.com/photo-1548142813-c348350df52b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=689&q=80"
+    },
+    {
+        "name": "Anna Jessi",
+        "id": 1,
+        "age": 21,
+        "position": "Marketing manager",
+        "salary": 120000,
+        "contract": "+4488899902",
+        "img": "https://images.unsplash.com/photo-1564460576398-ef55d99548b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+    },
+    {
+        "name": "Lee Carter",
+        "id": 1,
+        "age": 20,
+        "position": "Executive positions",
+        "salary": 150000,
+        "contract": "+4488899012",
+        "img": "https://images.unsplash.com/photo-1558730234-d8b2281b0d00?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80"
+    },
+    {
+        "name": "Leon Kelly",
+        "id": 1,
+        "age": 30,
+        "position": "Manager",
+        "salary": 145000,
+        "contract": "+4477899992",
+        "img": "https://cdn.powerpackelements.com/wp-content/uploads/2017/11/Team-memeber-9.png"
+    },
+    {
+        "name": "Jaylene Doyle",
+        "id": 1,
+        "age": 35,
+        "position": "General Manager",
+        "salary": 130000,
+        "contract": "+4488808991",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO0PA-B7d86q1L1c1Rx-bvQHvhHpLvx6TO9pUUiNuVNSiK9UxKDHCOq_Fjrq57xp8-BB0&usqp=CAU"
+    },
+    {
+        "name": "Sascha Bergler ",
+        "id": 1,
+        "age": 22,
+        "position": "Product manager",
+        "salary": 80000,
+        "contract": "+4488899002",
+        "img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=688&q=80"
+    },
+    {
+        "name": "Florentina Heuser",
+        "id": 1,
+        "age": 34,
+        "position": "Graphic designer",
+        "salary": 140000,
+        "contract": "+4488899122",
+        "img": "https://images.unsplash.com/photo-1598897516650-e4dc73d8e417?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=764&q=80"
+    },
+    {
+        "name": "Hartmut Friedel",
+        "id": 1,
+        "age": 29,
+        "position": "Web manager",
+        "salary": 160000,
+        "contract": "+4488009992",
+        "img": "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=761&q=80"
+    }
+]
