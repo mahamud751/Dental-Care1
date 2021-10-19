@@ -1,0 +1,12 @@
+.faq{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+.faqText{
+    padding: 20px;
+}
+.sImg{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}

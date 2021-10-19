@@ -1,0 +1,17 @@
+.about{
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    text-align: start;
+}
+.about-details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about h1{
+    text-transform: uppercase;
+}
+img{
+    height: 600px;
+}

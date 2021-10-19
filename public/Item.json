@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1",
+        "key": "B002RL8IYK",
+        "name": "Oral B floss",
+        "price": 70,
+        "star": 4,
+        "img": "https://static.beautytocare.com/media/catalog/product/cache/global/image/650x650/85e4522595efc69f496374d01ef2bf13/o/r/oral-b-dental-floss-flour-mint.jpg"
+    },
+    {
+        "id": "2",
+        "key": "B01LZ2WZGH",
+        "price": 270,
+        "name": "Toothbrush",
+        "star": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Z9f7rX2ItZ3NYBJ_9qABqzayJMwLV-6HrZit8xLWeEe0uVHY_pMhBOS1q3YfeQB04I4&usqp=CAU"
+    },
+    {
+        "id": "3",
+        "key": "B01K1IO3QW",
+        "price": 30,
+        "name": "Biotene Oral",
+        "star": 4,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71Cd2zSYDTL.jpg"
+    },
+    {
+        "id": "4",
+        "key": "B01LD4MGY4",
+        "price": 40,
+        "name": "CT Dry Fluoride Toothpaste",
+        "star": 4,
+        "img": "https://i5.walmartimages.com/asr/f458c3d9-9b66-4288-ac88-2768b3b655c6.610ff264b03bfc083c752bda1be71c95.jpeg"
+    },
+    {
+        "id": "5",
+        "key": "B01M18UZF5",
+        "price": 60,
+        "name": "Daily probiotic",
+        "star": 4,
+        "img": "https://cdn.shopify.com/s/files/1/0080/0325/6438/products/064642076212.MAIN_1800x1800.jpg?v=1618494658"
+    },
+    {
+        "id": "6",
+        "name": "Mornwell D50 Electric Flosser",
+        "price": 90,
+        "star": 4,
+        "img": "https://www.teknistore.com/325724-large_default/mornwell-d50-ipx7-waterproof-electric-water-flosser-handheld-oral-irrigator-teeth-cleaner.jpg"
+    },
+    {
+        "id": "7",
+        "key": "B01LD4MGY4",
+        "price": 100,
+        "name": "Oral & Sinus Probiotic",
+        "star": 4,
+        "img": "https://media.healthydirections.com/fit-in/800x800/production/media/1657/product-BLS01.jpg"
+    },
+    {
+        "id": "8",
+        "key": "B01M18UZF5",
+        "price": 70,
+        "name": "Oral-B Pro 7000 Black",
+        "star": 4,
+        "img": "https://ae01.alicdn.com/kf/U2c75ea15b37646d79dc8545b67271ff05.jpg"
+    }
+]

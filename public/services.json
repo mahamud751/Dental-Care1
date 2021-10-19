@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "key": "B002RL8IYK",
+        "name": "Esthetic dentistry",
+        "star": 4,
+        "description": "We offer teeth whitening as a way to remove stains from the surface of the teeth. Veneers: We place a thin restoration over the front of the tooth",
+        "img": "https://www.svgrepo.com/show/29366/dentist.svg"
+    },
+    {
+        "id": 2,
+        "key": "B01LZ2WZGH",
+        "name": "Cavity Protection",
+        "star": 4,
+        "description": "Cavity Protection fluoride toothpaste strengthens teeth with active fluoride and fights cavities. Freshen your breath and clean teeth with Colgate®.",
+        "img": "https://www.colgate.com/content/dam/cp-sites/oral-care/oral-care-center/global/product-detail-pages/icons/cavity-prevention.png.rendition.300.301.png"
+    },
+    {
+        "id": 3,
+        "key": "B01K1IO3QW",
+        "name": "General dentistry",
+        "star": 4,
+        "description": "General Dentistry is the award-winning, peer-reviewed journal of the Academy of General Dentistry. Published bimonthly, General Dentistry features clinical articles spanning the breadth of topics relevant to general dentists.",
+        "img": "https://www.svgrepo.com/show/164275/dentist.svg"
+    },
+    {
+        "id": 4,
+        "key": "B01LD4MGY4",
+        "name": "Dental Radiography",
+        "star": 4,
+        "description": "As a dental radiographer, you'll be tasked with operating medical imaging technology for diagnostic and treatment purposes.",
+        "img": "https://us.123rf.com/450wm/rudzhan/rudzhan2008/rudzhan200800399/154509898-woman-patient-in-a-dentists-chair.jpg?ver=6"
+    },
+    {
+        "id": 5,
+        "key": "B01M18UZF5",
+        "name": "Surgery",
+        "star": 4,
+        "description": "A surgical extraction is a slightly more complex procedure that occurs when a tooth has not yet broken through the gum line, or has not yet fully grown into the mouth. ",
+        "img": "https://media.istockphoto.com/vectors/dentist-examines-patient-in-dentist-chair-woman-visits-orthodontist-vector-id1196021900?k=20&m=1196021900&s=612x612&w=0&h=v9hhX25OKXTgb-gk2Ml3iVWZAc4puZyKujtzH_T4LYY="
+    },
+    {
+        "id": 6,
+        "name": "Orthodontics",
+        "star": 4,
+        "description": "Orthodontics is a dentistry specialty that addresses the diagnosis, prevention, and correction of mal-positioned teeth and jaws, and misaligned bite ",
+        "img": "https://thumbs.dreamstime.com/b/dental-braces-abstract-concept-vector-illustration-procedure-correction-method-crowded-teeth-treatment-orthodontic-problem-aligner-194525983.jpg"
+    }
+]

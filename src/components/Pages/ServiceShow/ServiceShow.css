@@ -1,0 +1,9 @@
+.service_img{
+    /* border-radius: 50%; */
+    width: 150px;
+    height: 150px;
+}
+.card{
+    border-radius: 40px;
+    background-color: bisque;
+}

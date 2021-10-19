@@ -1,0 +1,11 @@
+.btn-normal{
+    width: 150px;
+    background-color: gold;
+    line-height: 40px;
+    border-radius: 10px;
+    border: 0;
+}
+.product{
+    border-radius: 40px;
+    background-color: bisque;
+}
