@@ -12,7 +12,7 @@ const Members = (props) => {
                 <Col className="mt-5 single-cart">
                     <Card className="m-card container">
                         <Card.Img variant="top" className="card-img img-fluid" src={img} style={{ height: "350px" }} />
-                        <Card.Body className="text-dark">
+                        <Card.Body className="text-white">
                             <Card.Title className="text-center fs-1">Dr. {name}</Card.Title>
 
                             <Card.Text className="mt-3 text-center">
